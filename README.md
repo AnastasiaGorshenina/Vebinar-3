@@ -1,2 +1,1 @@
-# Vebinar-3
-test repoz for seminar 3
+# Основные команды 3 семинара
